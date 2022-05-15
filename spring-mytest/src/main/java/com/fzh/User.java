@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
  */
 @Component
 public class User {
-	public String name = "ZoharFang";
+	public String name = "github username:fangzehao";
 
 	public String getName() {
 		return name;
